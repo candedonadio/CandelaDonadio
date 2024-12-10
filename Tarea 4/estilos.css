@@ -1,0 +1,40 @@
+.fondo{
+    background-color: antiquewhite;
+}
+
+h1{
+ color: rgb(88, 137, 168);
+ font-size: 50px;
+ font-style: italic;
+}
+
+h3{
+    color: rgb(109, 95, 77);
+    font-style: normal;
+}
+
+#series{
+    font-style: italic;
+    background-color: aquamarine;
+    box-sizing: border-box;
+    height: 150px;
+    width: 200px;
+    margin: 50px;
+    padding: 5px;
+}
+
+#pelis {
+    font-style: italic;
+    background-color: lightblue;
+    box-sizing: border-box;
+    height: 160px;
+    width: 200px;
+    margin: 50px;
+    padding: 5px;
+}
+
+span{
+    font-size: 70px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(109, 95, 77);
+}
