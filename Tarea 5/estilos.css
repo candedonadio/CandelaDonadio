@@ -1,0 +1,60 @@
+.fondo{
+    background-color: antiquewhite;
+}
+
+.bagel-fat-one-regular {
+    font-family: "Bagel Fat One", serif;
+    font-weight: 400;
+    font-style: normal;
+  }  
+  
+
+h1{
+ color: rgb(88, 137, 168);
+ font-family: "Bagel Fat One", serif;
+ font-size: 60px;
+}
+
+h3{
+    color: rgb(109, 95, 77);
+    font-style: normal;
+    font-size: 40px;
+}
+
+#series{
+    font-style: italic;
+    background-color: aquamarine;
+    box-sizing: border-box;
+    height: 150px;
+    width: 200px;
+    margin: 50px;
+    padding: 5px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px rgb(102, 202, 169);
+    border: 2px solid  rgb(102, 202, 169);
+}
+
+#pelis {
+    font-style: italic;
+    background-color: lightblue;
+    box-sizing: border-box;
+    height: 160px;
+    width: 200px;
+    margin: 50px;
+    padding: 5px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px rgb(131, 163, 173);
+    border: 2px solid rgb(131, 163, 173);
+}
+
+span{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(109, 95, 77);
+}
+
+.caja {
+    text-align: center;
+    font-size: 18px;
+}
